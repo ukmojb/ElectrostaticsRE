@@ -1,0 +1,28 @@
+{
+  "result": {
+    "item": "electrostatics:jump_generator",
+    "data": 0
+  },
+  "pattern": [
+    "rxr",
+    "sfs"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "r": {
+      "type": "forge:ore_dict",
+      "ore": "itemRubber"
+    },
+    "x": {
+      "item" : "minecraft:dye",
+      "data" : 12
+    },
+    "f": {
+      "item": "minecraft:piston"
+    },
+    "s": {
+      "type": "forge:ore_dict",
+      "ore": "stone"
+    }
+  }
+}

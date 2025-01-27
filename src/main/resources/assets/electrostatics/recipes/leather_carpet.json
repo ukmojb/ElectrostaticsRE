@@ -1,0 +1,15 @@
+{
+	"result": {
+		"item": "electrostatics:leather_carpet"
+	},
+	"pattern": [
+		"iii"
+	],
+	"type": "forge:ore_shaped",
+	"key": {
+		"i": {
+			"type": "forge:ore_dict",
+			"ore": "leather"
+		}
+	}
+}

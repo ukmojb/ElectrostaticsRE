@@ -1,0 +1,13 @@
+{
+  "result": {
+    "item": "minecraft:leather",
+    "count": 3
+  },
+  "pattern": [
+    "i"
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "electrostatics:leather_carpet"}
+  ]
+}

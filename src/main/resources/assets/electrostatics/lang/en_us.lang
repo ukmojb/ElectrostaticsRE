@@ -1,0 +1,9 @@
+itemGroup.Electrostatics=Electrostatics
+item.rubber_boots.name=Rubber Boots
+item.glass_boots.name=Glass Boots
+item.rubber.name=Rubber
+item.resin.name=Resin
+item.tree_tap.name=Treetap
+tile.electrostatic_generator.name=Electrostatic Generator
+tile.electrostatics.leather_carpet.name=Leather Carpet
+tile.electrostatics.jump_generator.name=Jump Generator
