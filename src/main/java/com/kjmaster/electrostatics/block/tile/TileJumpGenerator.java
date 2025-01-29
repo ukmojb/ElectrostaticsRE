@@ -41,7 +41,7 @@ public class TileJumpGenerator extends TileEntity implements ITickable, IEnergyS
         List<EntityPlayer> players = world.getEntitiesWithinAABB(EntityPlayer.class, new AxisAlignedBB(this.pos.down().east().south(), this.pos.up(2)));
         for (EntityPlayer player : players) {
             if(player.motionY != -0.0784000015258789) {
-                System.out.println(player.motionY);
+//                System.out.println(player.motionY);
                 EnergyStorage storage = this.storage;
                 if (storage.getEnergyStored() < storage.getMaxEnergyStored())
                     storage.receiveEnergy(ConfigHandler.JumpRfPerTick, false);

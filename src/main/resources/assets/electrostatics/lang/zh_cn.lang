@@ -4,6 +4,7 @@ item.glass_boots.name=玻璃靴
 item.rubber.name=橡胶
 item.resin.name=树脂
 item.tree_tap.name=木龙头
+item.rubber_glove.name=橡胶手套
 tile.electrostatic_generator.name=静电发生器
 tile.electrostatics.leather_carpet.name=皮毛毯
 tile.electrostatics.jump_generator.name=压电发电机

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "item": "electrostatics:rubber_glove",
+    "data": 0
+  },
+  "pattern": [
+    "rrr",
+    "rvr",
+    "ivi"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "r": {
+      "type": "forge:ore_dict",
+      "ore": "itemRubber"
+    },
+    "v": {
+      "type": "forge:ore_dict",
+      "ore": "leather"
+    },
+    "i": {
+      "type": "forge:ore_dict",
+      "ore": "ingotIron"
+    }
+  }
+}
